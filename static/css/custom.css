@@ -1,0 +1,110 @@
+/*
+    colours:
+    Primary: #215356
+    Secondary: #019592
+    button-primary: #707070
+    warning-background: #B00020
+    warning-icons: #FFC000
+*/
+
+/* Globals e.g backgrounds, custom heights etc... */
+
+.bg-main {
+    background-color: #215356;
+    color: white;
+}
+
+.bg-second:hover {
+    background-color: #019592 !important;
+}
+
+.main-hover-bg-change:hover {
+    background-color: #019592;
+}
+
+.height-50px {
+    height: 50px;
+}
+
+/* Icons */
+.dashboard-icon {
+    font-size: 2em;
+}
+
+/* Navbar custom */
+
+.unipark-unispan {
+    color: #019592;
+}
+
+.bg-dark {
+    background-color: #215356 !important;
+}
+
+/* Form custom */
+
+.bg-form {
+    background-color: #019592;
+}
+
+.main-form {
+    width: 450px;
+}
+
+.form-label {
+    color: white;
+    font-weight: bolder;
+}
+
+.form-text {
+    color: black;
+    font-style: italic;
+}
+
+.btn-primary {
+    background-color: #707070;
+    border-color: #707070;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #215356;
+    border-color: #215356;
+}
+
+.custom-input-reg {
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+/* User Dashboard */
+
+
+/* Kiosk Screen */
+
+.kiosk-main-bg {
+    background-color: lightgray;
+}
+
+.kiosk-other-bg {
+    background-color: #797979;
+}
+
+.kiosk-secondary-bg {
+    background-color: #484848;
+}
+
+.display-screen-kiosk {
+    background-color: white;
+    color: black;
+}
+
+.custom-btn-kiosk {
+    height: 180px;
+    width: 180px;
+}
+
+.barcode-scanner-icon {
+    font-size: 3em;
+}
